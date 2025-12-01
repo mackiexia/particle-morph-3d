@@ -1,0 +1,5 @@
+{
+  "name": "Particle Morph 3D",
+  "description": "An immersive interactive 3D particle visualization tool where custom symbols morph into complex mathematical shapes like Mobius strips, Klein bottles, and cultural artifacts.",
+  "requestFramePermissions": []
+}
